@@ -1,1 +1,2 @@
 # git-tkh-practice
+This is a sample README! My name is Elijah Reed, I am in the Web Development Cohort A of The Knowledge House. One fun fact about me is that my first anime I ever watched was Naruto, which is why it's one of my favorites.
